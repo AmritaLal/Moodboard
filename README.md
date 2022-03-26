@@ -1,2 +1,2 @@
 # Moodboard
-Moodboard and video presentation for a University project.
+By using DaVinci, I wanted to communicate a message associated with a sound for a school project. Starting from the sound suggestion, I created a moodboard and then I added the visual  suggestion of the narrative evoked by the sound. After that I made a short video. The moodboard constitutes the visual communication of the next short film, with the rendering of the atmosphere and the color palette.  The delivery format is an HTML5 file.
